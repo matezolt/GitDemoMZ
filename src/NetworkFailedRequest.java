@@ -42,9 +42,10 @@ public class NetworkFailedRequest {
 		System.out.println("end of project3");
 		
 		
+		System.out.println("end of project4");
 		
-		
-		
+		System.out.println("end of project5");
+		System.out.println("end of project6");
 		
 		
 	}
