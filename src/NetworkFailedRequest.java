@@ -37,9 +37,9 @@ public class NetworkFailedRequest {
 		driver.get("https://rahulshettyacademy.com/angularAppdemo/");
 		driver.findElement(By.cssSelector("button[routerlink*='library']")).click();
 		
-		
-		
-		
+		System.out.println("end of project");
+		System.out.println("end of project2");
+		System.out.println("end of project3");
 		
 		
 		
