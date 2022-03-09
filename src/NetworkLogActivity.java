@@ -56,7 +56,8 @@ public class NetworkLogActivity {
 		
 		
 		System.out.println("end of project7");
-				
+		System.out.println("end of project8");
+		System.out.println("end of project9");
 					
 		
 	}
